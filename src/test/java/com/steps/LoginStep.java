@@ -28,6 +28,7 @@ public class LoginStep {
 		Thread.sleep(2000);
 		
 	System.out.println("Test222");
+	System.out.println("Test44");
 	}
 
 	@When("User enters username {string}")
